@@ -1,0 +1,77 @@
+header {
+  background-color: red;
+  width: 100%;
+  height: 200px;
+}
+#cajablanca {
+  background-color: white;
+  height: 2cm;
+  width: 4cm;
+  position: relative;
+  top: 15%;
+  left: 5%;
+}
+#cajitasazules {
+  display: inline-flex;
+}
+.caja1 {
+  background-color: blue;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  left: 900px;
+}
+.caja2 {
+  background-color: blue;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  left: 910px;
+}
+.caja3 {
+  background-color: blue;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  left: 920px;
+}
+.caja4 {
+  background-color: blue;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  left: 930px;
+}
+.aquabox {
+  background-color: aquamarine;
+  width: 50%;
+  height: 501px;
+  padding: 2%;
+}
+.violetbox {
+  background-color: blueviolet;
+  width: 50%;
+  height: 301px;
+  padding: 2%;
+  display: inline-block;
+  position: relative;
+  left: 720px;
+  bottom: 553px;
+}
+.greenbox {
+  background-color: darkgreen;
+  width: 50%;
+  height: 244px;
+  padding: 2%;
+  display: inline-block;
+  position: relative;
+  left: 720px;
+  bottom: 650px;
+}
+.greenlightbox {
+  background-color: greenyellow;
+  width: 100%;
+  height: 60px;
+  position: relative;
+  bottom: 670px;
+}
